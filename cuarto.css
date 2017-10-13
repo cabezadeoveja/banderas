@@ -1,0 +1,21 @@
+.yellow{
+	background-color: yellow;
+	display: inline-block;
+}
+
+
+.grey{
+	background-color: grey;
+	display: inline-block; 
+	margin: 20px;
+
+}
+
+h4,h5{
+	padding: 0.4em /*porque estamos modificando el texto no la caja*/
+	margin: 0.2em;
+}
+
+h5{
+	color: white;
+}
